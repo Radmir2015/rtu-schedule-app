@@ -1,11 +1,13 @@
-# Sample Snack app
+# RTU Schedule App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Mobile application for convenient viewing of group's timetable, individual teacher's timetable (search) from data that were scraped and parsed on server ([repo](https://github.com/Radmir2015/rtu-schedule)).
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+This app was written using **React Native**, **React Navigation**, **Expo**.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+Several screenshots of the app:
+| Schedule screen | Settings screen |
+| --------------- | --------------- |
+| ![][screen1]    | ![][screen2]    |
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+[screen1]: screenshots/main-screen.png "The first screen"
+[screen2]: screenshots/settings-screen.png "The second screen"
